@@ -1,0 +1,6 @@
+Tiaya£º
+{
+	1.tiayaInstance
+	2.tiayaMode
+		2.1levelState
+}
